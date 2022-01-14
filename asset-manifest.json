@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Naomi-Portfolio/static/css/main.cc1a2729.css",
+    "main.js": "/Naomi-Portfolio/static/js/main.1004013b.js",
+    "static/media/IMG_7380.jpg": "/Naomi-Portfolio/static/media/IMG_7380.b01524e426b4b3ed689c.jpg",
+    "static/media/ECUWIT.PNG": "/Naomi-Portfolio/static/media/ECUWIT.0c9d397c2ab475b30fac.PNG",
+    "static/media/Naomi-Resume.pdf": "/Naomi-Portfolio/static/media/Naomi-Resume.9b3edaec00ae6d0286eb.pdf",
+    "static/media/schedule.jpg": "/Naomi-Portfolio/static/media/schedule.2ae7f4f428c59fea23bd.jpg",
+    "static/media/heroImage.jpg": "/Naomi-Portfolio/static/media/heroImage.434e2eaf43739d19ccaf.jpg",
+    "static/media/ZEAL.jpg": "/Naomi-Portfolio/static/media/ZEAL.ea8f55f35b070f5b6460.jpg",
+    "static/media/book.jpg": "/Naomi-Portfolio/static/media/book.8b20c5d97f84eccc9726.jpg",
+    "static/media/gastronomy.png": "/Naomi-Portfolio/static/media/gastronomy.a548050de4b0c1329775.png",
+    "index.html": "/Naomi-Portfolio/index.html",
+    "main.cc1a2729.css.map": "/Naomi-Portfolio/static/css/main.cc1a2729.css.map",
+    "main.1004013b.js.map": "/Naomi-Portfolio/static/js/main.1004013b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc1a2729.css",
+    "static/js/main.1004013b.js"
+  ]
+}
